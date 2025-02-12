@@ -19,4 +19,4 @@ An **innovative and interactive** portfolio featuring **stunning 3D elements** �
 
 ## 🌍 Live Demo  
 
-Check it out here 👉 (https://3d-portfolio-website-vite-react.vercel.app/](https://3d-portfolio-website-vite-react.vercel.app/)
+Check it out here 👉 (https://3d-portfolio-website-vite-react.vercel.app/)
